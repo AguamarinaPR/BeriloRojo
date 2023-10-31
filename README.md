@@ -17,7 +17,8 @@ To add categories to an application, edit the generated extras.xml and change th
 - ```Games```
 - ```Applications```
 - ```Others```
-\Once you have set the main category (```<catg>```) you can set the ```<catg2>``` tag text to one of the following, depending on the main category
+  
+Once you have set the main category (```<catg>```) you can set the ```<catg2>``` tag text to one of the following, depending on the main category
 #### Games
 > Arcade & Action, Brain & Puzzle, Cards & Casino, Casual, Emulators, Other
 #### Applications
