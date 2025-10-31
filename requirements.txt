@@ -1,0 +1,6 @@
+asn1crypto==1.5.1
+click==8.3.0
+colorama==0.4.6
+lxml==6.0.2
+pillow==12.0.0
+pyaxmlparser==0.3.31
